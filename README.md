@@ -15,26 +15,6 @@ Plataforma full-stack de gestão de biblioteca, desenvolvida no âmbito da unida
 - **Base de dados:** MongoDB
 - **Autenticação:** JWT
 
-## 🚀 Como correr o projeto localmente
-
-```bash
-# clonar o repositório
-git clone https://github.com/VascoRodrigues28/smartlibrary-hub.git
-cd smartlibrary-hub
-
-# backend
-cd backend
-npm install
-npm run dev
-
-# frontend (noutro terminal)
-cd frontend
-npm install
-npm start
-```
-
-Cria um ficheiro `.env` no backend com as variáveis necessárias (ligação à MongoDB, secret do JWT, etc.), ver `.env.example`.
-
 ## 📸 Screenshots
 _(adicionar aqui 2-3 capturas de ecrã da aplicação: login, dashboard, gestão de empréstimos)_
 
